@@ -6,3 +6,5 @@ function checkPalindrome(str) {
         return false
     }
 }
+
+checkPalindrome("racecar"); //____ Returns true because "racecar" in reverse is "racecar"
